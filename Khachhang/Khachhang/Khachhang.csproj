@@ -138,8 +138,11 @@
       <DependentUpon>202103090442026_Create_table_Khachhang.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Account.cs" />
+    <Compile Include="Models\demobbcontext.cs" />
     <Compile Include="Models\KH.cs" />
     <Compile Include="Models\KhachhangDbContext.cs" />
+    <Compile Include="Models\person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
